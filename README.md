@@ -6,7 +6,7 @@
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali)--> 
 [![Gmail Badge](https://img.shields.io/badge/-ghaithbusinessacc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghaithbusinessacc@gmail.com)](mailto:ghaithbusinessacc@gmail.com) 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=RainyGhaith&abbreviated=true)
 
 <div style="text-align: right">Any sufficiently crisp question can be answered by a single binary digit-0 or 1, yes or no. </div>
 
