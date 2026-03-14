@@ -6,7 +6,7 @@
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali)--> 
 [![Gmail Badge](https://img.shields.io/badge/-ghaithbusinessacc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghaithbusinessacc@gmail.com)](mailto:ghaithbusinessacc@gmail.com) 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=MarikIshtar007](https://komarev.com/ghpvc/?username=RainyGhaith&abbreviated=true)" alt="RainyGhaith" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=RainyGhaith](https://komarev.com/ghpvc/?username=RainyGhaith&abbreviated=true)" alt="RainyGhaith" /> </p>
 
 <div style="text-align: right">Any sufficiently crisp question can be answered by a single binary digit-0 or 1, yes or no. </div>
 
